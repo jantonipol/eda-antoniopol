@@ -1,6 +1,6 @@
 # eda-antoniopol
 
-Eda relaizado sobre el data set https://www.kaggle.com/kendallgillies/video-game-sales-and-ratings el cual se ha realizado mediante Web Scraping de dos paginas webs de databases de videojuegos Metacritic (https://www.metacritic.com/game) y de VGChartz https://www.vgchartz.com/gamedb
+Eda realizado sobre el data set https://www.kaggle.com/kendallgillies/video-game-sales-and-ratings el cual se ha desarrollado mediante Web Scraping de dos paginas webs de databases de videojuegos Metacritic (https://www.metacritic.com/game) y de VGChartz https://www.vgchartz.com/gamedb
 
 Mediante librerias como pandas, numpy, seaborn o matplotlib se realiza la exploracion del data set y la representacion grafica del dato trabajado.
 
